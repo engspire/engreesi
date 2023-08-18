@@ -2,8 +2,10 @@
   "index": "Introduction",
   "contributions": "Contributions",
   "grammar": "Grammar Lessons",
-  "about": {
-    "title": "About",
-    "type": "page"
+  "engspire": {
+    "title": "Go to Engspire Website",
+    "type": "page",
+    "newWindow": true,
+    "href": "https://engspire.lk"
   }
 }
