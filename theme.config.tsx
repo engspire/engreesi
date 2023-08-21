@@ -2,7 +2,7 @@ import { useRouter } from 'next/router'
 import { DocsThemeConfig, useConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
-  logo: (<span>Engreesi</span>),
+  logo: (<span><strong>Engreesi</strong> Web App</span>),
   logoLink: "/",
   project: {
     link: 'https://github.com/pivee/engreesi',
