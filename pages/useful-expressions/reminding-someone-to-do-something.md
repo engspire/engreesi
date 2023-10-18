@@ -1,12 +1,5 @@
 ---
-category: "Useful expressions"
 title: "Reminding someone to do something"
-metaTitle: "Reminding someone to do something"
-metaDescription: ""
-socialImage:
-date: "2022-09-01"
-tags:
-  - "word-skills"
 ---
 
 There are many situations when you ask somebody to do something and later you think that they didn't remember to do it. Here are some phrases that you can use to remind them.

@@ -1,12 +1,5 @@
 ---
-category: "Useful expressions"
 title: "Forgetting things"
-metaTitle: "Forgetting things"
-metaDescription: ""
-socialImage:
-date: "2022-09-01"
-tags:
-  - "word-skills"
 ---
 
 Sometimes we can't remember things from the past and sometimes we forget to do important things in the present. We can use these ten phrases for these situations.

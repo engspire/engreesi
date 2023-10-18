@@ -1,12 +1,5 @@
 ---
-category: "Useful expressions"
 title: "Asking for opinion"
-metaTitle: "Asking for opinion"
-metaDescription: ""
-socialImage:
-date: "2022-09-01"
-tags:
-  - "word-skills"
 ---
 
 It's a good idea to ask another person about their opinion before you tell them your opinion loudly and strongly. Maybe they completely disagree with you. Here are ten ways to ask.

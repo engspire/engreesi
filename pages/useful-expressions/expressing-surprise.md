@@ -1,12 +1,5 @@
 ---
-category: "Useful expressions"
 title: "Expressing surprise"
-metaTitle: "Expressing surprise"
-metaDescription: ""
-socialImage:
-date: "2022-09-01"
-tags:
-  - "word-skills"
 ---
 
 Sometimes you see or hear something that you were not expecting. Maybe it's an unexpected event or a piece of information. Here are ten expressions that show how surprised you are.

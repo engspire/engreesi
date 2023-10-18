@@ -1,12 +1,5 @@
 ---
-category: "Useful expressions"
 title: "Talking about music you like"
-metaTitle: "Talking about music you like"
-metaDescription: ""
-socialImage:
-date: "2022-09-01"
-tags:
-  - "word-skills"
 ---
 
 There are many different phrases that English people use when they like something. Here are ten of the more idiomatic phrases you might hear.

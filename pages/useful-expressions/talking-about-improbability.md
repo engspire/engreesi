@@ -1,12 +1,5 @@
 ---
-category: "Useful expressions"
 title: "Talking about improbability"
-metaTitle: "Talking about improbability"
-metaDescription: ""
-socialImage:
-date: "2022-09-01"
-tags:
-  - "word-skills"
 ---
 
 We don't know what will happen in the future. But sometimes there are things that we don't think will happen (e.g. England winning the World Cup). We use these ten phrases.

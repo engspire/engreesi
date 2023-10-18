@@ -1,12 +1,5 @@
 ---
-category: "Useful expressions"
 title: "Showing anger"
-metaTitle: "Showing anger"
-metaDescription: ""
-socialImage:
-date: "2022-09-01"
-tags:
-  - "word-skills"
 ---
 
 Here are some things that people often say when they're angry or annoyed at something.

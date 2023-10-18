@@ -1,12 +1,5 @@
 ---
-category: "Useful expressions"
 title: "Complaining about hypocrisy"
-metaTitle: "Complaining about hypocrisy"
-metaDescription: ""
-socialImage:
-date: "2022-09-01"
-tags:
-  - "word-skills"
 ---
 
 Sometimes some people criticize another person for doing something that they are also guilty of. Here are some phrases you can use to call them out.

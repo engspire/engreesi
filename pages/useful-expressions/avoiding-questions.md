@@ -1,12 +1,5 @@
 ---
-category: "Useful expressions"
 title: "Avoiding questions"
-metaTitle: "Avoiding questions"
-metaDescription: ""
-socialImage:
-date: "2022-09-01"
-tags:
-  - "word-skills"
 ---
 
 Sometimes somebody asks you a question and you don't want give the answer. If you know the answer but you don't want them to know, you can use one of these ten phrases.

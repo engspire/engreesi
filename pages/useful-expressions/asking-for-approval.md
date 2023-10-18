@@ -1,12 +1,5 @@
 ---
-category: "Useful expressions"
 title: "Asking for approval"
-metaTitle: "Asking for approval"
-metaDescription: ""
-socialImage:
-date: "2022-09-01"
-tags:
-  - "word-skills"
 ---
 
 Sometimes we are not sure if it's a good idea to do something. So we need useful expressions for asking if other people agree with an idea or intended action. Here are ten phrases.

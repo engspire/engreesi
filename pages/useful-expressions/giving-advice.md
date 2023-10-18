@@ -1,12 +1,5 @@
 ---
-category: "Useful expressions"
 title: "Giving advice"
-metaTitle: "Giving advice"
-metaDescription: ""
-socialImage:
-date: "2022-09-01"
-tags:
-  - "word-skills"
 ---
 
 Sometimes other people don't know what to do and they ask us for some advice. Here are ten phrases you can use when you are making suggestions. Assume the person who asked for your advice in this instance is doing something that you believe they should stop.

@@ -1,12 +1,5 @@
 ---
-category: "Useful expressions"
 title: "Showing disapproval"
-metaTitle: "Showing disapproval"
-metaDescription: ""
-socialImage:
-date: "2022-09-01"
-tags:
-  - "word-skills"
 ---
 
 Sometimes we hear about an action that somebody else has done and we feel very negative about it. Here are ten phrases that English people use to show their disapproval.

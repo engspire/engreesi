@@ -1,12 +1,5 @@
 ---
-category: "Useful expressions"
 title: "Encouraging someone"
-metaTitle: "Encouraging someone"
-metaDescription: ""
-socialImage:
-date: "2022-09-01"
-tags:
-  - "word-skills"
 ---
 
 Everyone likes to be encouraged. Here are some phrases you can use when trying to encourage someone.

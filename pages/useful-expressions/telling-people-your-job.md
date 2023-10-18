@@ -1,12 +1,5 @@
 ---
-category: "Useful expressions"
 title: "Telling people your job"
-metaTitle: "Telling people your job"
-metaDescription: ""
-socialImage:
-date: "2022-09-01"
-tags:
-  - "word-skills"
 ---
 
 When people ask you **"What do you do?"**, there are different ways that you can answer. In all the examples below the speaker is a hairdresser.

@@ -1,12 +1,5 @@
 ---
-category: "Useful expressions"
 title: "Remembering things"
-metaTitle: "Remembering things"
-metaDescription: ""
-socialImage:
-date: "2022-09-01"
-tags:
-  - "word-skills"
 ---
 
 Do you have a good memory? You can probably remember many things from the past. These are ten phrases that English people use when they are recalling things from the past.

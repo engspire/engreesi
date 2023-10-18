@@ -1,12 +1,5 @@
 ---
-category: "Useful expressions"
 title: "Preferring things"
-metaTitle: "Preferring things"
-metaDescription: ""
-socialImage:
-date: "2022-09-01"
-tags:
-  - "word-skills"
 ---
 
 We often have to make choices and sometimes we make those choices together with other people. Here are ten English phrases that you can use to say which choice you like best.

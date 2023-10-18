@@ -1,12 +1,5 @@
 ---
-category: "Useful expressions"
 title: "Asking for information"
-metaTitle: "Asking for information"
-metaDescription: ""
-socialImage:
-date: "2022-09-01"
-tags:
-  - "word-skills"
 ---
 
 Sometimes you want to ask English people for information. In English it is not very polite to start a conversation with a direct question. For this reason we have a number of phrases.

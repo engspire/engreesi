@@ -1,12 +1,5 @@
 ---
-category: "Useful expressions"
 title: "Giving excuses for being late"
-metaTitle: "Giving excuses for being late"
-metaDescription: ""
-socialImage:
-date: "2022-09-01"
-tags:
-  - "word-skills"
 ---
 
 It happens. We are late for something. That's when we say sorry and normally give a reason - our excuse for being late.

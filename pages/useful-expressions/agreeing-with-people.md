@@ -1,12 +1,5 @@
 ---
-category: "Useful expressions"
 title: "Agreeing with people"
-metaTitle: "Agreeing with people"
-metaDescription: ""
-socialImage:
-date: "2022-09-01"
-tags:
-  - "word-skills"
 ---
 
 When we're talking in conversation with others, it's useful to have a number of formal and informal phrases that you can use to show agreement with what another person has said.

@@ -1,12 +1,5 @@
 ---
-category: "Useful expressions"
 title: "Disagreeing with people"
-metaTitle: "Disagreeing with people"
-metaDescription: ""
-socialImage:
-date: "2022-09-01"
-tags:
-  - "word-skills"
 ---
 
 Sometimes people give an opinion and you don't agree with it. We have many ways to show disagreement in English. Here are ten of them.

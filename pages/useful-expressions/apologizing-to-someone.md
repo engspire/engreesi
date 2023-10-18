@@ -1,12 +1,5 @@
 ---
-category: "Useful expressions"
 title: "Apologizing to someone"
-metaTitle: "Apologizing to someone"
-metaDescription: ""
-socialImage:
-date: "2022-09-01"
-tags:
-  - "word-skills"
 ---
 
 Everybody makes mistakes sometimes. When it happens we need a phrase to tell the other person how really sorry we are and stop them getting really angry. Here are ten phrases.

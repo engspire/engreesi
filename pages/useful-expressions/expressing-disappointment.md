@@ -1,12 +1,5 @@
 ---
-category: "Useful expressions"
 title: "Expressing disappointment"
-metaTitle: "Expressing disappointment"
-metaDescription: ""
-socialImage:
-date: "2022-09-01"
-tags:
-  - "word-skills"
 ---
 
 Sometimes you are expecting something to be good and in the end it is less good than you were expecting. Here are ten phrases you can use to show your disappointment.

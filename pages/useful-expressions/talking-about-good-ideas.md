@@ -1,12 +1,5 @@
 ---
-category: "Useful expressions"
 title: "Talking about good ideas"
-metaTitle: "Talking about good ideas"
-metaDescription: ""
-socialImage:
-date: "2022-09-01"
-tags:
-  - "word-skills"
 ---
 
 With friends, at work and in many other situations we ask for ideas and respond to them. Here are some useful ways of saying you like someone's idea.

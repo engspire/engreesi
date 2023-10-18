@@ -1,12 +1,5 @@
 ---
-category: "Useful expressions"
 title: "Making suggestions"
-metaTitle: "Making suggestions"
-metaDescription: ""
-socialImage:
-date: "2022-09-01"
-tags:
-  - "word-skills"
 ---
 
 We often suggest ideas or things to do. Here are some common examples with seeing a film. You can use the structures to talk about other things, of course.

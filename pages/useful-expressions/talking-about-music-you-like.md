@@ -1,12 +1,5 @@
 ---
-category: "Useful expressions"
 title: "Talking about music you like"
-metaTitle: "Talking about music you like"
-metaDescription: ""
-socialImage:
-date: "2022-09-01"
-tags:
-  - "word-skills"
 ---
 
 We often talk about hobbies and things we like - but exercises in school books don't always sound very natural. Here are some ways of talking about something that you like a lot.

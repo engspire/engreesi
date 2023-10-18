@@ -1,12 +1,5 @@
 ---
-category: "Useful expressions"
 title: "Refusing to do something"
-metaTitle: "Refusing to do something"
-metaDescription: ""
-socialImage:
-date: "2022-09-01"
-tags:
-  - "word-skills"
 ---
 
 Sometimes people ask us to do things and we don't want to do them. Here are ten phrases to refuse.

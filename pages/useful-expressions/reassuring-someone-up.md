@@ -1,12 +1,5 @@
 ---
-category: "Useful expressions"
 title: "Reassuring someone"
-metaTitle: "Reassuring someone"
-metaDescription: ""
-socialImage:
-date: "2022-09-01"
-tags:
-  - "word-skills"
 ---
 
 Sometimes other people get really worried about something that is not so great a problem. Here are ten phrases that you can use to reassure them and make them feel better.

@@ -1,12 +1,5 @@
 ---
-category: "Useful expressions"
 title: "Having a guess"
-metaTitle: "Having a guess"
-metaDescription: ""
-socialImage:
-date: "2022-09-01"
-tags:
-  - "word-skills"
 ---
 
 Sometimes you don't know exactly what something is, but you have some idea. Here are some phrases to use when you need to guess.

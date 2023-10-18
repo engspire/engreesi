@@ -1,12 +1,5 @@
 ---
-category: "Useful expressions"
 title: "Delaying your answer"
-metaTitle: "Delaying your answer"
-metaDescription: ""
-socialImage:
-date: "2022-09-01"
-tags:
-  - "word-skills"
 ---
 
 Sometimes you need a few seconds to think of the right word or plan your next sentence. Luckily, there are many phrases in English for delaying. Here are ten of them.

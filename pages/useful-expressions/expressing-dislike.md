@@ -1,12 +1,5 @@
 ---
-category: "Useful expressions"
 title: "Expressing dislike"
-metaTitle: "Expressing dislike"
-metaDescription: ""
-socialImage:
-date: "2022-09-01"
-tags:
-  - "word-skills"
 ---
 
 There are many ways of saying that you don't like something in English. Here are ten of the more idiomatic phrases that we use to say that something is not to our taste.

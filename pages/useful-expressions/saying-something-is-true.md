@@ -1,12 +1,5 @@
 ---
-category: "Useful expressions"
 title: "Saying something is true"
-metaTitle: "Saying something is true"
-metaDescription: ""
-socialImage:
-date: "2022-09-01"
-tags:
-  - "word-skills"
 ---
 
 Here are ten phrases that you can use when you are absolutely sure that what you are saying is true.

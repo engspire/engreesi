@@ -1,12 +1,5 @@
 ---
-category: "Useful expressions"
 title: "Making small talk"
-metaTitle: "Making small talk"
-metaDescription: ""
-socialImage:
-date: "2022-09-01"
-tags:
-  - "word-skills"
 ---
 
 "Small talk" means conversation about things that aren't really very important, especially with people we don't meet very often.

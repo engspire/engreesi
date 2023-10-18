@@ -1,12 +1,5 @@
 ---
-category: "Useful expressions"
 title: "Cheering someone up"
-metaTitle: "Cheering someone up"
-metaDescription: ""
-socialImage:
-date: "2022-09-01"
-tags:
-  - "word-skills"
 ---
 
 Sometimes other people around us feel a bit down or unhappy about something. Here are ten phrases you can use to try to make them feel better.

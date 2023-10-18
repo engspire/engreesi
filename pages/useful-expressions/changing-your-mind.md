@@ -1,12 +1,5 @@
 ---
-category: "Useful expressions"
 title: "Changing your mind"
-metaTitle: "Changing your mind"
-metaDescription: ""
-socialImage:
-date: "2022-09-01"
-tags:
-  - "word-skills"
 ---
 
 Sometimes you make a decision or you think you know an answer and a short time later, you realize that you were wrong. Here are ten things we can say or write in this situation.

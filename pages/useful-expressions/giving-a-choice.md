@@ -1,12 +1,5 @@
 ---
-category: "Useful expressions"
 title: "Giving a choice"
-metaTitle: "Giving a choice"
-metaDescription: ""
-socialImage:
-date: "2022-09-01"
-tags:
-  - "word-skills"
 ---
 
 Sometimes you want everybody to do something you want or you want something done in a certain way. But other times you are happy for other people to choose. Here are ten phrases.

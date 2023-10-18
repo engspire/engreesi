@@ -1,12 +1,5 @@
 ---
-category: "Useful expressions"
 title: "Generalizing"
-metaTitle: "Generalizing"
-metaDescription: ""
-socialImage:
-date: "2022-09-01"
-tags:
-  - "word-skills"
 ---
 
 There are many phrases in English that we can use when we want to say that something is true most of the time but not all the time.

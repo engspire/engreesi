@@ -1,12 +1,5 @@
 ---
-category: "Useful expressions"
 title: "Criticizing mistakes"
-metaTitle: "Criticizing mistakes"
-metaDescription: ""
-socialImage:
-date: "2022-09-01"
-tags:
-  - "word-skills"
 ---
 
 Generally, it's not nice to criticize other people's mistakes but when it's a friend or the action directly affects us we may want to say something. Here are ten possible phrases.

@@ -1,12 +1,5 @@
 ---
-category: "Useful expressions"
 title: "Speculating things"
-metaTitle: "Speculating things"
-metaDescription: ""
-socialImage:
-date: "2022-09-01"
-tags:
-  - "word-skills"
 ---
 
 Here are some ways of talking about what we think might happen, when we don't really know.

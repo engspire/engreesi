@@ -1,12 +1,5 @@
 ---
-category: "Useful expressions"
 title: "Asking for help"
-metaTitle: "Asking for help"
-metaDescription: ""
-socialImage:
-date: "2022-09-01"
-tags:
-  - "word-skills"
 ---
 
 We all need help sometimes. In English, it is not polite to ask directly. So there are many phrases that we can say before a request to 'soften' it. Here are ten such phrases.

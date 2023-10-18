@@ -1,12 +1,5 @@
 ---
-category: "Useful expressions"
 title: "Avoiding giving your opinion"
-metaTitle: "Avoiding giving your opinion"
-metaDescription: ""
-socialImage:
-date: "2022-09-01"
-tags:
-  - "word-skills"
 ---
 
 Sometimes a person asks for your opinion about something and you have nothing to say or you don't want to say your opinion. Here are ten phrases for avoiding giving your opinion.

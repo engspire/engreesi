@@ -1,12 +1,5 @@
 ---
-category: "Useful expressions"
 title: "Showing concern"
-metaTitle: "Showing concern"
-metaDescription: ""
-socialImage:
-date: "2022-09-01"
-tags:
-  - "word-skills"
 ---
 
 Sometimes other people are sad, upset or have a problem of some kind. There are many things we can say to show concern. Here are ten of them.
