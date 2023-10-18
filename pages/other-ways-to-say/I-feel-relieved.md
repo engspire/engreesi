@@ -1,0 +1,46 @@
+---
+title: "\"I feel relieved\""
+---
+
+Sometimes we think that something terrible is going to happen and then in the end it doesn't happen at all. Here are ten phrases that we use to show our relief.
+
+```txt
+    1. Phew!
+    2. Thank God (for that)!
+    3. What a relief!
+    4. I'm so relieved to hear that.
+    5. You had me worried (there / for a moment).
+    6. That's a weight off my mind.
+    7. You've no idea what a relief it is to hear
+    8. That's one less thing to worry about.
+    9. What a stroke of luck!
+   1.  (Oh well.) All's well that ends well!
+```
+
+> Explanations
+>
+> - Phrase 1 is very informal and is normally said with a rising then falling intonation.
+>
+> ---
+>
+> - Phrase 2 is religious in origin and may offend some very traditional or religious people. But most English people do say this.
+>
+> ---
+>
+> - Phrases 3 and 4 are general expressions for showing relief.
+>
+> ---
+>
+> - Phrases 5 and 6 are showing how much we were worried before.
+>
+> ---
+>
+> - Phrase 7 is telling the other speaker how happy you are to hear the good news.
+>
+> ---
+>
+> - Phrase 8 is saying that you are relieved about one thing but that you still have many other things to worry about.
+>
+> ---
+>
+> - Phrase 9 is saying how lucky you feel that bad things didn't happen. This phrase is most common when talking about relief but we also use it for general good luck.

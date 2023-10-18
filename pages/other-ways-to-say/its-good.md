@@ -1,0 +1,42 @@
+---
+title: "\"It's good\""
+---
+
+Students who learn English sometimes use the words "good" and "nice" many times in their writing and speaking. It is more interesting if you use different words. There are many.
+
+```txt
+    1. It's great.
+    2. It's fantastic.
+    3. It's excellent.
+    4. It's better than average.
+    5. It's not bad.
+    6. I'd recommend it.
+    7. I'm very impressed.
+    8. It's better than I expected.
+    9. It's the best I've ever seen/tasted
+   1.  I could ___ till the cows come home.
+```
+
+> Explanations
+>
+> - Phrases 1, 2 and 3 are stronger ways of saying that something is good.
+>
+> ---
+>
+> - Phrases 4 and 5 are saying it's good but not very good.
+>
+> ---
+>
+> - Phrase 5 says that you like and you want other people to try it too.
+>
+> ---
+>
+> - Phrase 8 says that it's good but you didn't expect that it would be so good.
+>
+> ---
+>
+> - Phrase 9 is saying that it is the best.
+>
+> ---
+>
+> - Phrase 10 is very enthusiastic. You need a verb and an object. e.g. _I could listen to Robbie Williams till the cows come home_.

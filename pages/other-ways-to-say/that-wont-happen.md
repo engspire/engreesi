@@ -1,0 +1,38 @@
+---
+title: "\"That won't happen\""
+---
+
+Imagine your friend says "I'm going to president one day". In English, we have a number of phrases to say that we think the other person is being totally unrealistic.
+
+```txt
+    1. As if!
+    2. In your dreams!
+    3. You wish!
+    4. No chance!
+    5. Not a chance!
+    6. Not likely!
+    7. Dream on!
+    8. Never in a million years!
+    9. You'll be lucky!
+   1.  Yes, and pigs might fly!
+```
+
+> Explanations
+>
+> - Phrases 1, 2, and 3 not only show disbelief but are also quite dismissive of the person who made the prediction.
+>
+> ---
+>
+> - Phrases 4 and 5 are indicating that you think the prediction is totally impossible.
+>
+> ---
+>
+> - Phrase 6 is a little more tentative. You concede that there may be a small chance.
+>
+> ---
+>
+> - Phrase 7 suggests that you think the other person is just day-dreaming.
+>
+> ---
+>
+> - Phrases 9 and 10 are a little sarcastic. In phrase ten you are saying that the prediction is no more likely than pigs suddenly being able to fly.

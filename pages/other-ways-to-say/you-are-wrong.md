@@ -1,0 +1,42 @@
+---
+title: "\"You are wrong\""
+---
+
+When you hear somebody say something that you know is wrong, you want to tell them. Here are ten polite and less polite ways of telling them they're wrong.
+
+```txt
+    1. I'm afraid that's not quite right.
+    2. Actually, I think you'll find that...
+    3. I'm afraid you're mistaken.
+    4. I don't think you're right about...
+    5. Actually, I don't think...
+    6. No, you've got it wrong.
+    7. No, that's all wrong.
+    8. Rubbish!/You're talking rubbish.
+    9. Where did you hear that?
+   1.  If you check your facts, you'll find...
+```
+
+> Explanations
+>
+> - Phrases 1 and 2 are fairly polite. If you really want to be polite you could make an apology first e.g. 'I'm sorry to disagree, but...'
+>
+> ---
+>
+> - Phrases 3 and 4 are a little stronger and a little less polite.
+>
+> ---
+>
+> - You follow phrase 4 with a noun phrase or a gerund.
+>
+> ---
+>
+> - Phrases 6 and 7 are very strong. You may upset the person you are talking to so you should be really sure about your own facts before you say one of these.
+>
+> ---
+>
+> - Phrases 8 and 9 are actually quite rude. Even people who know each other quite well may not say these phrases to each other.
+>
+> ---
+>
+> - Phrase 10 is followed by a sentence or clause with the correct information.

@@ -1,0 +1,46 @@
+---
+title: "\"I'm fine\""
+---
+
+When somebody asks you **"How are you?"**, there are many different ways to say that we feel well.
+
+```txt
+    1. I'm fine thank you.
+    2. I feel great/marvelous/fine.
+    3. Couldn't be better.
+    4. Fit as a fiddle.
+    5. Very well, thanks.
+    6. Okay.
+    7. Alright.
+    8. Not bad.
+    9. Much better.
+   10. All the better for seeing you.
+```
+
+> Explanations
+>
+> - Many students only learn phrase 1. Try to learn some more expressions.
+>
+> ---
+>
+> - Phrase 2 is very positive. Marvelous is probably the strongest.
+>
+> ---
+>
+> - Phrase 3 is saying that it is impossible to be more healthy/well.
+>
+> ---
+>
+> - Phrase 4 is an idiom that says you feel very fit and healthy.
+>
+> ---
+>
+> - Phrases 6, 7 and 8 are positive but not strong. People sometimes say these when they don't feel very well but they want to be polite.
+>
+> ---
+>
+> - We say phrase 9 when we were sick before and now feel (more) well.
+>
+> ---
+>
+> - Phrase 10 is the friendliest phrase. We are saying that seeing the other person has made us feel healthier and happier. Don't use this with strangers.

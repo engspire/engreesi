@@ -1,0 +1,46 @@
+---
+title: "\"I want...\""
+---
+
+In English, it's not really polite to say 'I want!'. Children are taught 'Those who want don't get.' So we have many different ways to say we want something. Here are ten of them.
+
+```txt
+    1. I'd really like/I'd love a day off
+    2. I wouldn't mind a...
+    3. I could (really) do with a...
+    4. I could use a...
+    5. What I'd really like/love is a...
+    6. All (that) we need is a day off
+    7. Ideally, what I'd like is a day off
+    8. A _____ would be (much) appreciated
+    9. A _____ would go down well.
+   1.  I'm dying for/longing for...
+```
+
+> Explanations
+>
+> - Phrase 1 is quite strong. The speaker really wants a day off.
+>
+> ---
+>
+> - Phrases 2, 3 and 4 are a little less strong. The speaker still really wants a day off but she is being less forceful.
+>
+> ---
+>
+> - In phrase 5, if you put stress on "really" it is saying that a day off is something that you want in your heart. But if you don't have it you will be okay.
+>
+> ---
+>
+> - Phrase 6 is saying that if you have (a day off) you will be happy and you will not want anything else.
+>
+> ---
+>
+> - Phrase 7 is saying that the best thing is for you to have a day off. But is it doesn't happen you will be okay.
+>
+> ---
+>
+> - Phrases 8 is more formal and more polite. You could use it in a formal letter of request.
+>
+> ---
+>
+> - Phrases 9 and 10 are more informal. Phrase 10 is really quite strong and not very polite. It's best to use this with friends and people who you know well.

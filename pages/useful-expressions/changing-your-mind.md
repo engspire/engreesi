@@ -1,0 +1,53 @@
+---
+category: "Useful expressions"
+title: "Changing your mind"
+metaTitle: "Changing your mind"
+metaDescription: ""
+socialImage:
+date: "2022-09-01"
+tags:
+  - "word-skills"
+---
+
+Sometimes you make a decision or you think you know an answer and a short time later, you realize that you were wrong. Here are ten things we can say or write in this situation.
+
+```txt
+    1. (Actually,) I've changed my mind.
+    2. On second thoughts...
+    3. Come to think of it...
+    4. I've had a change of heart.
+    5. Hang on a minute / a second.
+    6. I've had a bit of a rethink.
+    7. Did I really say that?
+    8. What was I thinking?
+    9. On reflection...
+   10. After further consideration...
+```
+
+> Explanations
+>
+> - All of the phrases are used immediately before a sentence containing our new (revised ideas). Phrases 1, 4, 5, 6, 7 and 8 are whole sentences and the other phrases are sentence adverbs.
+>
+> ---
+>
+> - Phrase 1 is quite neutral in tone and can be used informally and formally.
+>
+> ---
+>
+> - Phrases 3 and 4 are quite informal. Phrase 3 is nearly always used in speech while phrase 4 can be spoken or written.
+>
+> ---
+>
+> - We say phrase 5 at the moment when we realize we were previously wrong. It is very informal and only ever used in spoken English.
+>
+> ---
+>
+> - Phrase 6 suggests that the speaker hasn't completely changed their previous ideas but has just altered them a little. But this phrase is sometimes used ironically to mean a total change of position.
+>
+> ---
+>
+> - Phrases 7 and 8 are quite informal and are used by the speaker to criticize their own previous (wrong) idea or decision.
+>
+> ---
+>
+> - Phrases 9 and 10 are more formal than the others and are usually used in writing. Phrase 10 is especially useful for formal letters to explain why we no longer want to do something we previously.

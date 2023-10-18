@@ -1,0 +1,46 @@
+---
+title: "\"I don't believe it\""
+---
+
+If somebody says something and you don't believe them, there are many ways of saying you don't believe. Here are ten of them.
+
+```txt
+    1. You're having me on.
+    2. You're pulling my leg.
+    3. That's a bit of an exaggeration.
+    4. That's an outright lie.
+    5. That's a pack of lies.
+    6. That's a fishy story.
+    7. What you're saying is libellous.
+    8. A half-truth.
+    9. That's a fib.
+   10. That's stretching the truth a bit.
+```
+
+> Explanations
+>
+> - Phrases 1 and 2 suggest that the other speaker might be lying as a joke.
+>
+> ---
+>
+> - Phrase 3 suggests that the other speaker has described something as larger or stronger than it really is.
+>
+> ---
+>
+> - Phrase 3 is a strong accusation that the previous statement is totally untrue.
+>
+> ---
+>
+> - Phrase 5 suggests that the other speaker has made a number of statements and that all of them are untrue.
+>
+> ---
+>
+> - Phrase 6 suggests that you are suspicious of a statement but you are not sure that it is a lie.
+>
+> ---
+>
+> - Phrase 7 says that the statement is untrue and could be punished in a law court.
+>
+> ---
+>
+> - Phrase 10 is the most gentle of these phrases but often the speaker still thinks the previous statement was a complete lie.

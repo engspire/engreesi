@@ -1,0 +1,49 @@
+---
+category: "Useful expressions"
+title: "Expressing dislike"
+metaTitle: "Expressing dislike"
+metaDescription: ""
+socialImage:
+date: "2022-09-01"
+tags:
+  - "word-skills"
+---
+
+There are many ways of saying that you don't like something in English. Here are ten of the more idiomatic phrases that we use to say that something is not to our taste.
+
+```txt
+    1. I'm not too keen on Hindi movies.
+    2. I'm not a big a fan of Hindi movies.
+    3. I can't work up any enthusiasm for it.
+    4. I'm not particularly fond of Hindi movies.
+    5. I can't stand it/I really hate it.
+    6. Hindi movies -- I can take it or leave it.
+    7. Hindi movies leave me cold.
+    8. I can't see what all the fuss is about.
+    9. I'm afraid it doesn't appeal to me.
+   10. I would rather cut off my right arm than...
+```
+
+> Explanations
+>
+> - Phrases 1 and 2 are quite informal phrases. The level of dislike is not very strong. The speaker will probably agree to watch Hindi movies but won't enjoy it very much.
+>
+> ---
+>
+> - In phrases 3 and 4, the speaker is saying that she doesn't feel anything about Hindi movies. This is more formal.
+>
+> ---
+>
+> - Phrases in 5 are very strong. The speaker really does not want to ever watch Hindi movies again.
+>
+> ---
+>
+> - Phrases 6, 7 and 8 are quite informal and saying that Hindi movies doesn't cause any emotion or reaction from the speaker. This is dismissive and considered quite negative.
+>
+> ---
+>
+> - Phrase 9 is more formal and is saying that the speaker doesn't enjoy Hindi movies. This is a reasonably polite way of saying that you don't like something.
+>
+> ---
+>
+> - Phrase 6 is an exaggerated and humorous way of saying the speaker really, really hates something. It can also be quite impolite if used at the wrong time.

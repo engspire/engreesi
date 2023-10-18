@@ -1,0 +1,49 @@
+---
+category: "Useful expressions"
+title: "Refusing to do something"
+metaTitle: "Refusing to do something"
+metaDescription: ""
+socialImage:
+date: "2022-09-01"
+tags:
+  - "word-skills"
+---
+
+Sometimes people ask us to do things and we don't want to do them. Here are ten phrases to refuse.
+
+```txt
+    1. No way.
+    2. Absolutely not.
+    3. No Chance.
+    4. Not even if you paid me.
+    5. Get lost.
+    6. No, full stop.
+    7. Not likely.
+    8. I don't want to.
+    9. I'd rather not.
+   10. No, but thanks for asking.
+```
+
+> Explanations
+>
+> - Phrases 1, 2 and 3 are strong refusals.
+>
+> ---
+>
+> - Phrase 4 is also a strong refusal and suggests that money will not change the speaker's mind.
+>
+> ---
+>
+> - Phrase 5 is very informal and quite dismissive.
+>
+> ---
+>
+> - Phrase 6 is used to say that the refusal is final and no more discussion will take place.
+>
+> ---
+>
+> - Phrases 7 and 8 are not as final as phrase 6, but it is quite likely that the speaker will not change their mind.
+>
+> ---
+>
+> - Phrases 9 and 10 are quite polite ways of refusing.

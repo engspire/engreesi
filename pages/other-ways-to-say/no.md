@@ -1,0 +1,46 @@
+---
+title: "\"No\""
+---
+
+Although it's good to cooperate and help people, there are times when other people ask too much of us. Then it's useful to have ten ways of looking them in the face and saying no.
+
+```txt
+    1. In a word, no.
+    2. Not on your life.
+    3. Not likely.
+    4. Over my dead body.
+    5. Count me out.
+    6. I'd rather not (if you don't mind).
+    7. I'd love to, but...
+    8. No chance.
+    9. Not on your nelly!
+   1.  No way!
+```
+
+> Explanations
+>
+> - Phrase 1 is refusing to do something and also refusing to discuss the matter any more.
+>
+> ---
+>
+> - Phrases 2 and 3 are expressing refusal in an emphatic way.
+>
+> ---
+>
+> - We use phrase 4 to say that we will not allow somebody to do something.
+>
+> ---
+>
+> - We use phrase 5 to say that we don't want to be included in a group action or activity.
+>
+> ---
+>
+> - Phrases 6 and 7 are less strong and more polite/diplomatic than the other phrases.
+>
+> ---
+>
+> - Phrase 9 is a little old fashioned and can sound humorous.
+>
+> ---
+>
+> - Phrase 10 is very emphatic that you will not do something

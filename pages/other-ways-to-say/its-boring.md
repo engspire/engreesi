@@ -1,0 +1,38 @@
+---
+title: "\"It's boring!\""
+---
+
+Here are ten phrases to tell people how boring you find something, but be careful you don't offend them.
+
+```txt
+    1. How boring/tedious/dull!
+    2. What a bore!
+    3. It bores me to tears.
+    4. It leaves me cold.
+    5. It does nothing for me.
+    6. It's as dull as ditch-water.
+    7. I can't see what all the fuss is about.
+    8. It's as interesting as watching paint dry
+    9. I'm afraid I don't share your enthusiasm..
+   1.  I can't say that I find it interesting.
+```
+
+> Explanations
+>
+> - Phrases 1 ,2, 3 and 6 are really very strong. You can say this to somebody who probably agrees or who you know will not be offended.
+>
+> ---
+>
+> - Phrases 4 and 5 are saying that you feel no emotion at all about a certain thing ot topic.
+>
+> ---
+>
+> - Phrase 7 means that other people are interested in the subject but that you cannot understand why they are interested.
+>
+> ---
+>
+> - Phrase 8 is saying that it is extremely boring by comparing it to watching paint drying - which most people consider a very boring activity.
+>
+> ---
+>
+> - Phrases 9 and 10 are more polite. However, you are still saying something negative so you may want to soften it by saying "I'm afraid..." or "I'm sorry to say...".

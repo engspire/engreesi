@@ -1,0 +1,46 @@
+---
+title: "\"Please wait...\""
+---
+
+Sometimes when you are very busy and somebody asks you do do something, you need to ask them to wait. Here are ten phrases for asking people to wait.
+
+```txt
+    1. Hang on a moment/minute
+    2. Give us a second.
+    3. Half a moment/minute.
+    4. I'll be right with you.
+    5. Sorry, I'm a bit tied up right now.
+    6. Wait and see.
+    7. You'll just have to be patient.
+    8. Give me a chance.
+    9. Don't be so impatient.
+   10. We wish to apologize for the delay to...
+```
+
+> Explanations
+>
+> - Phrases 1, 2, and 3 are quite informal but polite in tone. You are busy and expect to be able to help them quite soon.
+>
+> ---
+>
+> - Phrase 4 is especially useful in customer service situations where you want to ask a customer to wait for a few minutes.
+>
+> ---
+>
+> - Phrase 5 is really saying how busy you are but at the same time you are asking people to wait. It is quite polite.
+>
+> ---
+>
+> - Phrase 6 is refusing to tell somebody something about the near future. We often use it when we are preparing a surprise for somebody.
+>
+> ---
+>
+> - Phrases 7 and 8 are less polite and are suggesting that you think the other person is being too impatient.
+>
+> ---
+>
+> - Phrase 9 is more impolite and you are actually directly criticizing the other person for being impatient.
+>
+> ---
+>
+> - Phrase 10 is a formal announcement that you might hear on a train or plane in the UK. It is followed by a noun phrase.

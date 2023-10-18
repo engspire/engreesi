@@ -1,0 +1,57 @@
+---
+category: "Useful expressions"
+title: "Agreeing with people"
+metaTitle: "Agreeing with people"
+metaDescription: ""
+socialImage:
+date: "2022-09-01"
+tags:
+  - "word-skills"
+---
+
+When we're talking in conversation with others, it's useful to have a number of formal and informal phrases that you can use to show agreement with what another person has said.
+
+```txt
+    1. I'm with you on that one.
+    2. I couldn't agree more.
+    3. Yes, absolutely.
+    4. I'd go along with that.
+    5. You've got a point there.
+    6. Hear, hear!
+    7. I think so too.
+    8. I couldn't have put it better myself.
+    9. Great minds think alike.
+   10. You took the words right out of my mouth.
+```
+
+> Explanations
+>
+> - Phrase 1 is used mainly in informal situations and shows quite strong agreement.
+>
+> ---
+>
+> - Phrase 2 can be used in both formal and informal situations and shows very strong agreement.
+>
+> ---
+>
+> - Phrase 3 shows very strong agreement.
+>
+> ---
+>
+> - Phrases 4 and 5 shows that the speaker agrees a bit less strongly and can be used both formally and informally.
+>
+> ---
+>
+> - Phrase 6 sounds quite formal and a bit old fashioned.
+>
+> ---
+>
+> - Phrase 8 shows total agreement with what the speaker has said and is also complimentary about the way it was said.
+>
+> ---
+>
+> - Phrase 9 is an old saying and compliments the speaker as well as agreeing with them.
+>
+> ---
+>
+> - Phrase 10 is suggesting that you were thinking of saying the same thing just before the other speaker said it first.

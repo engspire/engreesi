@@ -1,7 +1,10 @@
 {
   "index": "Introduction",
   "contributions": "Contributions",
-  "grammar": "Grammar Lessons",
+  "grammar-lessons": "Grammar Lessons",
+  "word-lists": "Word Lists",
+  "useful-expressions": "Useful expressions",
+  "other-ways-to-say": "Other ways to say...",
   "engspire": {
     "title": "Go to Engspire Website",
     "type": "page",

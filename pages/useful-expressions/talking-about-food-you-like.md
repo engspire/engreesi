@@ -1,0 +1,53 @@
+---
+category: "Useful expressions"
+title: "Talking about music you like"
+metaTitle: "Talking about music you like"
+metaDescription: ""
+socialImage:
+date: "2022-09-01"
+tags:
+  - "word-skills"
+---
+
+There are many different phrases that English people use when they like something. Here are ten of the more idiomatic phrases you might hear.
+
+```txt
+    1. I'm a big fan of Indian food.
+    2. I'm (absolutely) crazy about it.
+    3. I'm quite partial to spicy things.
+    4. I'm really into it (in a big way).
+    5. You can't beat a good (Indian meal).
+    6. Give me Thai food any day.
+    7. I'm particularly fond of hot curries.
+    8. There's nothing I like more than...
+    9. Thai food is what I live for.
+   10. What I wouldn't give for a Thai curry!
+```
+
+> Explanations
+>
+> - Phrases 1 and 2 are saying quite strongly that speaker really likes Indian food. Phrase 2 is a bit stronger than phrase 1.
+>
+> ---
+>
+> - Phrase 3 is a bit more formal and more restrained than phrases 1 and 2.
+>
+> ---
+>
+> - In phrase 4, we can make the basic expression 'into it' stronger by adding 'really' and much stronger with 'in a big way'. It is a very informal expression.
+>
+> ---
+>
+> - Phrases 5, 6 and 8 are saying that the speaker thinks something is best and that nothing else is better.
+>
+> ---
+>
+> - Phrase 7 is quite strong but a more formal expression that can be used in writing and in polite company.
+>
+> ---
+>
+> - Phrase 9 is almost certainly an exaggeration. It is saying that Thai food is the most (only) important thing in the speaker's life.
+>
+> ---
+>
+> - Phrase 10 is very informal and again quite exaggerated. The speaker is saying that the speaker would anything (or everything they have) for a Thai curry.

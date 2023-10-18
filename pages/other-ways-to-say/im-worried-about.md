@@ -1,0 +1,46 @@
+---
+title: "\"I am worried about...\""
+---
+
+Sometimes we think that something bad is going to happen in the future or we think something bad has already happened. Here are ten ways to say you're worried in English.
+
+```txt
+    1. I'm (so) worried about...
+    2. I'm afraid...
+    3. I can't help thinking...
+    4. I can't stop thinking about it.
+    5. I've been worried sick about...
+    6. It's been keeping me awake at night.
+    7. I'm scared stiff / to death that...
+    8. I'm really nervous.
+    9. I've got butterflies in my stomach.
+   1.  I'm absolutely dreading...
+```
+
+> Explanations
+>
+> - We follow phrases 1, 5 and 10 with a noun, noun phrase or a gerund (-ing form).
+>
+> ---
+>
+> - We follow 2, 3, 7 with a sentence or clause saying what we think will happen. e.g _I'm afraid **he'll find out what happened**_.
+>
+> ---
+>
+> - Phrase 1 is a general statement of worry or concern. The word "so" makes the statement much stronger.
+>
+> ---
+>
+> - Phrases 3 and 4 are saying that the person is always thinking about the problem.
+>
+> ---
+>
+> - Phrases 5 and 6 are saying that the person is worried now and that they have been feeling it for a long time before.
+>
+> ---
+>
+> - Phrases 2, 7, 8 and 9 are saying the person is worried about something that is going to happen and also is worried about their ability to manage the situation.
+>
+> ---
+>
+> - Phrase 10 is saying that something unavoidable is going to happen and the speaker is really not looking forward to it.

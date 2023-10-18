@@ -1,0 +1,53 @@
+---
+category: "Useful expressions"
+title: "Making small talk"
+metaTitle: "Making small talk"
+metaDescription: ""
+socialImage:
+date: "2022-09-01"
+tags:
+  - "word-skills"
+---
+
+"Small talk" means conversation about things that aren't really very important, especially with people we don't meet very often.
+
+```txt
+    1. You must be Susan's husband.
+    2. How's your wife / friend?
+    3. Nice weather, isn't it?
+    4. What's new?
+    5. I haven't seen you for ages.
+    6. What have you been up to?
+    7. Are you still working for the same firm?
+    8. Have you heard from Jenny recently?
+    9. What a coincidence!
+   10. Fancy meeting you here!
+```
+
+> Explanations
+>
+> - Phrase 1 is used to introduce yourself to someone, when you think you know who the person is.
+>
+> ---
+>
+> - Phrase 2 is used to ask the person you are talking to for information about someone close to them.
+>
+> ---
+>
+> - Phrase 3 is used when you can't think of anything else to talk about. If the weather is bad, you could say 'Rotten weather, isn't it?' instead.
+>
+> ---
+>
+> - Phrases 4 and 6 are general enquiries, asking for news about a person.
+>
+> ---
+>
+> - Phrases 7 and 8 are more specific than 4 and 6, but are still enquiries for information.
+>
+> ---
+>
+> - Phrase 5 has a similar meaning to 4 and 6, but is expressed as a statement rather than a question.
+>
+> ---
+>
+> - Phrases 9 and 10 are used to express surprise when you meet someone you weren't expecting to meet.

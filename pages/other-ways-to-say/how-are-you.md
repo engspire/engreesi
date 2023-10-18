@@ -1,0 +1,50 @@
+---
+title: "\"How are you?\""
+---
+
+When we meet somebody we know it's polite to ask a question or two about their health and their life. There are many different phrases in English for doing this.
+
+```txt
+    1. How are you?
+    2. How are things?
+    3. How's things?
+    4. How's it going?
+    5. How are you getting on?
+    6. How have you been?
+    7. What have you been (getting) up to?
+    8. I hope everything's okay?
+    9. Alright?
+   1.  How have you been keeping?
+```
+
+> Explanations
+>
+> - Phrase 1 is the best known phrase. It's useful to learn some of the others on this page as well.
+>
+> ---
+>
+> - Phrase 2 is a general inquiry about the other person's health and life. Your answer could be about your health, your work or your personal life.
+>
+> ---
+>
+> - Phrase 3 is similar to phrase 2 but the "incorrect" grammar makes it much more informal.
+>
+> ---
+>
+> - Phrases 4 and 5 are asking about the other person's life (work or personal life).
+>
+> ---
+>
+> - Phrase 6 is really asking about health but the other person may answer with general information about their life.
+>
+> ---
+>
+> - Phrase 7 is really asking about what kind of activities the other person has been doing recently. It more often refers to their home life, not work.
+>
+> ---
+>
+> - Phrases 8 and 9 are asking about health and life with a yes / no question. Phrase 9 is much more informal than phrase 8.
+>
+> ---
+>
+> - Phrase 10 is more formal but still sincere and friendly and is asking about the other person's health.

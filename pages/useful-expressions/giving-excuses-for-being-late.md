@@ -1,0 +1,49 @@
+---
+category: "Useful expressions"
+title: "Giving excuses for being late"
+metaTitle: "Giving excuses for being late"
+metaDescription: ""
+socialImage:
+date: "2022-09-01"
+tags:
+  - "word-skills"
+---
+
+It happens. We are late for something. That's when we say sorry and normally give a reason - our excuse for being late.
+
+```txt
+    1. Sorry - I didn't hear the alarm clock.
+    2. The alarm didn't go off.
+    3. I slept right through the alarm.
+    4. I had to wait ages for a bus.
+    5. The bus was late.
+    6. The traffic was terrible.
+    7. I couldn't find a parking space.
+    8. The roads were chockablock.
+    9. I got lost coming here.
+   10. It's not an easy place to find.
+```
+
+> Explanations
+>
+> - 1, 2 and 3 are all about problems waking up. We blame the alarm clock. 2 shows there was a problem with the alarm clock. 3 shows you were so tired that the alarm didn't wake you up.
+>
+> ---
+>
+> - The traffic is often responsible for us being late. 4 says that the bus is responsible - it didn't arrive when it was supposed to. 5 is similar.
+>
+> ---
+>
+> - 6 Here we are saying the traffic in general was responsible. You can use this if you are driving or traveling on the bus.
+>
+> ---
+>
+> - 7 and 8 are common problems for drivers. 7 means that it was difficult to park.
+>
+> ---
+>
+> - We use 8 to say the roads were full of traffic, like when there is a traffic jam.
+>
+> ---
+>
+> - 9 and 10 are used when you are visiting a place for the first time and don't know the way.

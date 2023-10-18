@@ -1,0 +1,38 @@
+---
+title: "\"You are correct\""
+---
+
+Here are ten expressions that you can use to say that someone is correct.
+
+```txt
+    1. Yes, that's right.
+    2. You're quite right.
+    3. Yes, that's correct.
+    4. That's spot on.
+    5. You're dead right (there).
+    6. Absolutely.
+    7. You've hit the nail on the head.
+    8. You could say so.
+    9. I'm afraid so.
+   1.  (I'm) sorry to say so.
+```
+
+> Explanations
+>
+> - Phrases 1, 2, and 3 are quite neutral and are just saying that what the other person asked is true.
+>
+> ---
+>
+> - Phrases 4, 5, and 6 also say that the information is very exact and maybe you are surprised at how accurate the other speaker is.
+>
+> ---
+>
+> - Phrase 7 is an idiom that means that the other person's question or statement is exactly true.
+>
+> ---
+>
+> - Phrase 8 says that you think this is correct but that other people disagree.
+>
+> ---
+>
+> - Phrases 9 and 10 are saying that the other speaker is correct but that you are unhappy about this information.

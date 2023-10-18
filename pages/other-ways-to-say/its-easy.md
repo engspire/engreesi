@@ -1,0 +1,42 @@
+---
+title: "\"It's easy\""
+---
+
+Here are some English phrases that you can say when you think something is easy or very easy.
+
+```txt
+    1. It's a piece of cake.
+    2. Easy-peasy.
+    3. It's a cinch.
+    4. There's nothing to it.
+    5. Anyone can do it.
+    6. It's child's play.
+    7. It's a walk in the park.
+    8. It's not rocket science.
+    9. It's easy as pie/easy as A,B,C.
+   10. I can do it with my eyes shut.
+```
+
+> Explanations
+>
+> - Phrases 1, 2 and 3 are saying that something is totally simple.
+>
+> ---
+>
+> - Phrase 4 is saying that you don't need to think about it. you can do it without thinking.
+>
+> ---
+>
+> - Phrase 5 says that it's so easy that everybody can do it.
+>
+> ---
+>
+> - Phrases 6 and 9 say that it's so easy that young children can do it.
+>
+> ---
+>
+> - Phrase 8 is saying that it is not difficult like building rockets.
+>
+> ---
+>
+> - Phrase 10 is saying that it is so easy that you can do it without looking - with your eyes shut.
