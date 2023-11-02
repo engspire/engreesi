@@ -6,6 +6,10 @@ th {
   text-align: left;
 }
 
+td {
+  vertical-align: top;
+}
+
 td:nth-child(1) {
   font-weight: bold;
 }
