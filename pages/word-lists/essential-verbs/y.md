@@ -3,4 +3,4 @@
 | yawn  | /jɔːn/  | ඈනුම් අරිනවා                        |                                                                                                             |
 | yearn | /jɜːn/  | පුල පුලා බලා සිටිනවා                   | ~ (for someone/something),<br>~ to do something                                                                              |
 | yell  | /jel/   | කෑ මොර දෙනවා                        | ~ (at someone/something),<br>~ at someone (to do something),<br>~ with something,<br>~ out (in something),<br>~ something (at someone/something),<br>~ out something |
-| yield | /jiːld/ | (ඵලදාව/ලාභ) ලබා දෙනවා, යටත් වෙනවා, නැමෙනවා | ~ something,<br>~ (to someone/something),<br>~ (up) someone/something (to someone/something)                                                          |
+| yield | /jiːld/ | (ඵලදාව/ලාභ) ලබා දෙනවා,<br>යටත් වෙනවා,<br>නැමෙනවා | ~ something,<br>~ (to someone/something),<br>~ (up) someone/something (to someone/something)                                                          |
