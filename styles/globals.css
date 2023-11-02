@@ -1,3 +1,16 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+th {
+  text-align: left;
+}
+
+td:nth-child(1) {
+  font-weight: bold;
+}
+
+th:nth-child(2), td:nth-child(2) {
+  min-width: 160px;
+  font-weight: 600;
+}

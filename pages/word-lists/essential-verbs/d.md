@@ -1,4 +1,4 @@
-| Verb        | 🗣️              | Sinhala Meaning(s)                                 | Possible Patterns                          |
+| Verb        | 🗣️              | Sinhala Meaning(s)                                 | Usage                          |
 | ----------- | -------------- | -------------------------------------------------- | ------------------------------------------ |
 | dab         | /dæb/          | තවනවා                                               | ~ (at) something (with something)                      |
 | damage      | /ˈdæmɪdʒ/      | හානි කරනවා, හානි වෙනවා                                    | ~ (to someone/something)                              |

@@ -1,3 +1,3 @@
-| Verb  | 🗣️          | Sinhala Meaning(s) | Possible Patterns |
+| Verb  | 🗣️          | Sinhala Meaning(s) | Usage |
 | ----- | ---------- | ------------------ | ----------------- |
 | x-ray | /ˈeks reɪ/ | x-ray කරනවා         | ~ something             |

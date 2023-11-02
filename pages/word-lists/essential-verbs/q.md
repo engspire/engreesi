@@ -1,4 +1,4 @@
-| Verb     | 🗣️           | Sinhala Meaning(s)  | Possible Patterns                   |
+| Verb     | 🗣️           | Sinhala Meaning(s)  | Usage                   |
 | -------- | ----------- | ------------------- | ----------------------------------- |
 | question | /ˈkwestʃən/ | ප්‍රශ්න කරනවා           | ~ something,<br>~ someone (about/on something),<br>~ wh-   |
 | quit     | /kwɪt/      | ඉවත්ව යනවා, අත්හැර දමනවා | ~ something,<br>~ as something,<br>~ doing something        |

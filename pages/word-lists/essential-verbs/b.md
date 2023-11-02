@@ -1,4 +1,4 @@
-| Verb     | 🗣️          | Sinhala Meaning(s)          | Possible Patterns                             |
+| Verb     | 🗣️          | Sinhala Meaning(s)          | Usage                             |
 | -------- | ---------- | --------------------------- | --------------------------------------------- |
 | bake     | /beɪk/     | පෝරණුවක පුළුස්සනවා                | ~ something,<br>~ someone something                               |
 | balance  | /ˈbæləns/  | තුලනය කරනවා, තුලිතව සිටිනවා        | ~ something,<br>~ something (on something),<br>~ (on something)             |
