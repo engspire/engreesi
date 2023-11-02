@@ -1,5 +1,5 @@
 | Verb     | 🗣️           | Sinhala Meaning(s)  | Possible Patterns                   |
 | -------- | ----------- | ------------------- | ----------------------------------- |
-| question | /ˈkwestʃən/ | ප්‍රශ්න කරනවා           | ~ sth,<br>~ sb (about/on sth),<br>~ wh-   |
-| quit     | /kwɪt/      | ඉවත්ව යනවා, අත්හැර දමනවා | ~ sth,<br>~ as sth,<br>~ doing sth        |
-| quote    | /kwəʊt/     | උපුටා දක්වනවා           | ~ sth (from sb/sth),<br>~ sb,<br>~ sb sth |
+| question | /ˈkwestʃən/ | ප්‍රශ්න කරනවා           | ~ something,<br>~ someone (about/on something),<br>~ wh-   |
+| quit     | /kwɪt/      | ඉවත්ව යනවා, අත්හැර දමනවා | ~ something,<br>~ as something,<br>~ doing something        |
+| quote    | /kwəʊt/     | උපුටා දක්වනවා           | ~ something (from someone/something),<br>~ someone,<br>~ someone something |

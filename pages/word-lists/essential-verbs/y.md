@@ -1,6 +1,6 @@
 | Verb  | 🗣️       | Sinhala Meaning(s)              | Possible Patterns                                                                                           |
 | ----- | ------- | ------------------------------- | ----------------------------------------------------------------------------------------------------------- |
 | yawn  | /jɔːn/  | ඈනුම් අරිනවා                        |                                                                                                             |
-| yearn | /jɜːn/  | පුල පුලා බලා සිටිනවා                   | ~ (for sb/sth),<br>~ to do sth                                                                              |
-| yell  | /jel/   | කෑ මොර දෙනවා                        | ~ (at sb/sth),<br>~ at sb (to do sth),<br>~ with sth,<br>~ out (in sth),<br>~ sth (at sb/sth),<br>~ out sth |
-| yield | /jiːld/ | (ඵලදාව/ලාභ) ලබා දෙනවා, යටත් වෙනවා, නැමෙනවා | ~ sth,<br>~ (to sb/sth),<br>~ (up) sb/sth (to sb/sth)                                                          |
+| yearn | /jɜːn/  | පුල පුලා බලා සිටිනවා                   | ~ (for someone/something),<br>~ to do something                                                                              |
+| yell  | /jel/   | කෑ මොර දෙනවා                        | ~ (at someone/something),<br>~ at someone (to do something),<br>~ with something,<br>~ out (in something),<br>~ something (at someone/something),<br>~ out something |
+| yield | /jiːld/ | (ඵලදාව/ලාභ) ලබා දෙනවා, යටත් වෙනවා, නැමෙනවා | ~ something,<br>~ (to someone/something),<br>~ (up) someone/something (to someone/something)                                                          |
