@@ -4,6 +4,9 @@ import { DocsThemeConfig, useConfig } from 'nextra-theme-docs'
 const config: DocsThemeConfig = {
   logo: (<span><strong>Engreesi</strong> Web App</span>),
   darkMode: false,
+  nextThemes: {
+    defaultTheme: "light",
+  },
   logoLink: "/",
   project: {
     link: 'https://github.com/pivee/engreesi',
