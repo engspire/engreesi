@@ -1,14 +1,20 @@
 {
   "index": "Introduction",
   "contributions": "Contributions",
+  "Grammar Lessons": {
+    "type": "separator",
+    "title": "Grammar"
+  },
   "grammar-lessons": "Grammar Lessons",
+  "Vocabulary": {
+    "type": "separator",
+    "title": "Vocabulary"
+  },
   "word-lists": "Word Lists",
+  "Speaking": {
+    "type": "separator",
+    "title": "Speaking"
+  },
   "how-to": "How to...",
-  "more-ways-to-say": "More ways to say...",
-  "engspire": {
-    "title": "Go to Engspire Website",
-    "type": "page",
-    "newWindow": true,
-    "href": "https://engspire.lk"
-  }
+  "more-ways-to-say": "More ways to say..."
 }
