@@ -19,11 +19,14 @@
   "homepage": "https://github.com/pivee/engreesi#readme",
   "dependencies": {
     "@vercel/analytics": "^1.1.1",
+    "axios": "^1.6.0",
+    "csv-parser": "^3.0.0",
     "next": "^13.0.6",
     "nextra": "latest",
     "nextra-theme-docs": "latest",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "ts-node": "^10.9.1"
   },
   "devDependencies": {
     "@types/node": "18.11.10",
