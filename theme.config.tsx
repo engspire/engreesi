@@ -15,7 +15,7 @@ const config: DocsThemeConfig = {
     titleComponent({ title, type }) {
       if (type === 'separator') {
         return (
-          <div style={{ background: 'black', color: 'white', textAlign: 'center' }}>{title}</div>
+          <div style={{ background: '#171717', color: 'white', textAlign: 'center' }}>{title}</div>
         );
       }
       if (title === 'Introduction') {
