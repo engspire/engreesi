@@ -1,3 +1,18 @@
+const nextConfig = {
+  typescript: {
+      ignoreBuildErrors: true
+  },
+  images: {
+      domains: [
+        "img.clerk.com",
+        "contrib.rocks"
+      ]
+  },
+  async redirects() {
+      return []
+  }
+}
+
 const withNextra = require('nextra')({
   theme: 'nextra-theme-docs',
   themeConfig: './theme.config.tsx',
@@ -10,5 +25,5 @@ const withPWA = require('next-pwa')({
   disable: process.env.NODE_ENV !== 'production'
 });
 
-module.exports = withPWA(withNextra());
+module.exports = withPWA(withNextra(nextConfig));
 
