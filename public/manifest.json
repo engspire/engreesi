@@ -20,5 +20,7 @@
   "dir": "auto",
   "lang": "en-US",
   "name": "Engreesi Web App",
-  "short_name": "Engreesi Web App"
+  "short_name": "Engreesi Web App",
+  "scope": "/",
+  "start_url": "/"
 }
