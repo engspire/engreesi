@@ -30,6 +30,9 @@ const config: DocsThemeConfig = {
       if (title === 'Word Lists') {
         return <>🧠 {title}</>;
       }
+      if (title === 'Essential Verbs') {
+        return <>🪜 {title}</>;
+      }
       if (title === 'How to...') {
         return <>🤔 {title}</>;
       }
