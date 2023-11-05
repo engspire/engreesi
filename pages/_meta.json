@@ -11,10 +11,7 @@
     "title": "Vocabulary"
   },
   "word-lists": "Word Lists",
-  "essential-verbs": {
-    "parent": "word-lists",
-    "title": "Essential Verbs"
-  },
+  "essential-verbs": "Essential Verbs",
   "Speaking": {
     "type": "separator",
     "title": "Speaking"
