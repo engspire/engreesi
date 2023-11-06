@@ -41,6 +41,7 @@ yarn-error.log*
 
 # Firebase
 /.firebase
+firebase-debug.log
 
 # Auto Generated PWA files
 **/public/sw.js

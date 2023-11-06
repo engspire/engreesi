@@ -3,10 +3,11 @@ const nextConfig = {
       ignoreBuildErrors: true
   },
   images: {
-      domains: [
-        "img.clerk.com",
-        "contrib.rocks"
-      ]
+    unoptimized: true,
+    domains: [
+      "img.clerk.com",
+      "contrib.rocks"
+    ]
   },
   async redirects() {
       return []
