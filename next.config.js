@@ -3,7 +3,7 @@ const nextConfig = {
       ignoreBuildErrors: true
   },
   images: {
-    unoptimized: true,
+    unoptimized: false, // NOTE: This needs to be set to `false` for Firebase deployments
     domains: [
       "img.clerk.com",
       "contrib.rocks"
