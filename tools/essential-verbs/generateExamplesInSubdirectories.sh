@@ -28,7 +28,7 @@ if [ -f "$source_script_path" ]; then
             # Check if the script exists in the subdirectory after copying
             if [ -f "$target_script" ]; then
                 echo "Running 'node $node_script' in \"$subdir\""
-                # (cd "$subdir" && node $node_script)
+                (cd "$subdir" && node $node_script)
             else
                 echo "No '$node_script' script found in \"$subdir\""
             fi
