@@ -45,7 +45,7 @@ async function createMdxFile(entries) {
     mdxContent += `## ${Entry}\n\n`;
     mdxContent += `🗣️ ${Pronunciation}\n\n`;
     mdxContent += '### ' + SinhalaMeanings.split(',').map((meaning) => `${meaning.trim()}`).join(', ') + '\n\n';
-    mdxContent += `### How to use "${Verb}" in a sentence:\n`;
+    mdxContent += `### How to use "${Verb}" in a sentence:\n\n`;
     
     for (const formattedUsage of formattedUsages) {
       let usage = formattedUsage.replace(/~/g, Verb);
