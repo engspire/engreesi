@@ -36,6 +36,12 @@ const config: DocsThemeConfig = {
       if (title === 'How to...') {
         return <>🤔 {title}</>;
       }
+      if (title === 'Conversations') {
+        return <>💬 {title}</>;
+      }
+      if (title.includes("Conversation: ")) {
+        return <>🗨️ {title.split("Conversation: ")[1]}</>;
+      }
       if (title === 'More ways to say...') {
         return <>😎 {title}</>;
       }
