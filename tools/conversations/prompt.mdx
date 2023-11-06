@@ -1,0 +1,47 @@
+Generate a conversation __PROMPT__
+
+I'm trying to use this to teach English to Sri Lankan students. Use the following template for this conversation.
+
+Replace __SPEAKER_1__ with the name of the first speaker, and __SPEAKER_2__ with the second.
+Replace __UTTERANCE_BY_SPEAKER_1__ with the line spoken by the first speaker and do similarly with __UTTERANCE_BY_SPEAKER_2__ and the line spoken by the second.
+There should be at least 5 utterances by each speaker, and the conversation must come to a natural end.
+
+Then decide a title for the conversation and replace __TITLE__ with that.
+
+Then describe the context and replace that in __CONTEXT__.
+
+---
+title: "Conversation: __TITLE__"
+description: "__CONTEXT__"
+---
+
+# __TITLE__
+
+> __CONTEXT__
+
+<br/>
+
+<div className="chat chat-start">
+  <div className="chat-header">
+    __SPEAKER_1__
+  </div>
+  <div className="chat-bubble text-xl bg-[#171717] text-white">__UTTERANCE_BY_SPEAKER_1__</div>
+</div>
+<div className="chat chat-end">
+  <div className="chat-header">
+    __SPEAKER_2__
+  </div>
+  <div className="chat-bubble text-xl bg-accent text-white">__UTTERANCE_BY_SPEAKER_2__</div>
+</div>
+<div className="chat chat-start">
+  <div className="chat-header">
+    __SPEAKER_1__
+  </div>
+  <div className="chat-bubble text-xl bg-[#171717] text-white">__UTTERANCE_BY_SPEAKER_1__</div>
+</div>
+<div className="chat chat-end">
+  <div className="chat-header">
+    __SPEAKER_2__
+  </div>
+  <div className="chat-bubble text-xl bg-accent text-white">__UTTERANCE_BY_SPEAKER_2__</div>
+</div>
