@@ -8,7 +8,7 @@ const apiKey = 'OPEN_AI_API_KEY';
 async function generateExampleSentence(verb, usage) {
   const prompt = `
     I'm an English teacher trying to teach students whose mother tongue is Sinhala.
-    I'm trying to teach the verb phrase 'ask for' and its usage.
+    I'm trying to teach the verb phrase '${verb}' and its usage.
     Please provide 1 clear and concise example sentence in English using the verb phrase '${usage}'.
     It must be a simple sentence without conjunctions.
     It must be a statement.
