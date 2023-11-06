@@ -1,6 +1,6 @@
 {
   "name": "engreesi",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "English lessons from Engspire",
   "scripts": {
     "dev": "next dev",
