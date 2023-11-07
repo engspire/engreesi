@@ -22,7 +22,7 @@ jobs:
       # Run the build command using pnpm
       - name: Build
         run: pnpm run build
-        working-directory: ./path/to/your/app  # Specify the path to your app if necessary
+        working-directory: ./  # Specify the path to your app if necessary
         if: success() # Only run if the previous step was successful
 
       - uses: FirebaseExtended/action-hosting-deploy@v0
