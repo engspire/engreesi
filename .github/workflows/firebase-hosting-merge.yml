@@ -10,9 +10,8 @@ jobs:
       - uses: actions/checkout@v3
 
       # Install pnpm
-      - name: Install pnpm
-        run: |
-          curl -L https://get.pnpm.io | bash -s -- --global
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v2.4.0
         if: success() # Only run if the previous step was successful
 
       # Install dependencies
