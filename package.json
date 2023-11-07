@@ -4,7 +4,7 @@
   "description": "English lessons from Engspire",
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "next build && next export",
     "start": "next start",
     "export": "next export",
     "serve": "next build && next export && firebase serve --only hosting",
