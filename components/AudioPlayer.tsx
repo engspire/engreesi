@@ -9,7 +9,6 @@ type AudioPlayerProps = {
 export default function Player({ url, loop }: AudioPlayerProps) {
   return (
     <AudioPlayer
-      autoPlay
       src={url}
       loop={loop ?? false}
       preload='none'
