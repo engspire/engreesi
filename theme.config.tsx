@@ -45,6 +45,9 @@ const config: DocsThemeConfig = {
       if (title === 'More ways to say...') {
         return <>😎 {title}</>;
       }
+      if (title === 'Pronunciation') {
+        return <>🗣️ {title}</>;
+      }
       return <>📄 {title}</>;
     }
   },

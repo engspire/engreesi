@@ -31,6 +31,7 @@
     "nextra-theme-docs": "latest",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-player": "^2.13.0",
     "sharp": "^0.32.6",
     "ts-node": "^10.9.1"
   },

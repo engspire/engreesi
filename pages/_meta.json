@@ -18,5 +18,10 @@
   },
   "how-to": "How to...",
   "more-ways-to-say": "More ways to say...",
-  "conversations": "Conversations"
+  "conversations": "Conversations",
+  "Pronunciation": {
+    "type": "separator",
+    "title": "Pronunciation"
+  },
+  "pronunciation": "Pronunciation"
 }
