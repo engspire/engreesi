@@ -3,7 +3,7 @@ const fs = require('fs');
 const csv = require('csv-parser');
 
 // Define your GPT-3 API key
-const apiKey = 'OPEN_AI_API_KEY';
+const apiKey = 'OPENAI_API_KEY';
 
 async function generateExampleSentence(verb, usage) {
   const prompt = `
