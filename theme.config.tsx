@@ -51,6 +51,9 @@ const config: DocsThemeConfig = {
       if (title === 'Consonant Sounds') {
         return <>🔊 {title}</>;
       }
+      if (title === 'Phonetic Symbols') {
+        return <>🖇 {title}</>;
+      }
       return <>📄 {title}</>;
     }
   },
