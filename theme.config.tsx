@@ -48,14 +48,8 @@ const config: DocsThemeConfig = {
       if (title === 'Pronunciation') {
         return <>🗣️ {title}</>;
       }
-      if (title === 'Sounds') {
+      if (title === 'Consonant Sounds') {
         return <>🔊 {title}</>;
-      }
-      if (title === 'Consonants') {
-        return <>▶️ {title}</>;
-      }
-      if (title === 'Vowels') {
-        return <>▶️ {title}</>;
       }
       return <>📄 {title}</>;
     }
