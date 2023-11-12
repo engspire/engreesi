@@ -2,9 +2,11 @@ const fs = require("fs");
 const path = require("path");
 const OpenAI = require("openai");
 const filenamify = import("filenamify");
+const dotenv = require('dotenv');
 
-// const apiKey = 'OPENAI_API_KEY';
-const apiKey = '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';
+dotenv.config({ path: path.join(__dirname, "../.env.local") });
+
+const apiKey = process.env.OPENAI_API_KEY;
 
 /**
  * Creates an MP3 file using OpenAI Text-to-Speech (TTS) API.
