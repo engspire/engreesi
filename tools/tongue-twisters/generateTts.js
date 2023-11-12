@@ -6,8 +6,7 @@ const csv = require('csv-parser');
 
 const apiKey = 'OPENAI_API_KEY';
 
-
-async function generateTts(text) {
+async function createTtsMp3(text) {
   const openai = new OpenAI({ apiKey });
 
   const fileName = (await filenamify).default(text);
@@ -31,7 +30,7 @@ async function createMp3File(entries) {
   for (const entry of entries) {
     const { Text } = entry;
     
-    const fileName = await generateTts(Text);
+    const fileName = await createTtsMp3(Text);
 
     console.log(`Created ${fileName}`);
   }
