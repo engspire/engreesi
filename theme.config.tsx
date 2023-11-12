@@ -54,6 +54,18 @@ const config: DocsThemeConfig = {
       if (title === 'Phonetic Symbols') {
         return <>🖇 {title}</>;
       }
+      if (title === 'Tongue Twisters') {
+        return <>🪢 {title}</>;
+      }
+      if (title === 'Easy') {
+        return <>🐰 {title}</>;
+      }
+      if (title === 'Intermediate') {
+        return <>🙊 {title}</>;
+      }
+      if (title === 'Long') {
+        return <>😈 {title}</>;
+      }
       return <>📄 {title}</>;
     }
   },
