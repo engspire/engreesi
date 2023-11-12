@@ -2,6 +2,7 @@ const fs = require("fs");
 const path = require("path");
 const OpenAI = require("openai");
 const filenamify = import("filenamify");
+const csv = require('csv-parser');
 
 const apiKey = 'OPENAI_API_KEY';
 
@@ -22,7 +23,29 @@ async function generateTts(text) {
   const buffer = Buffer.from(await mp3.arrayBuffer());
 
   await fs.promises.writeFile(speechFile, buffer);
+
+  return `${fileName}.mp3`;
 }
 
-// generateTts("Today is a wonderful day to build something people love!");
-generateTts("Brave brigadiers.");
+async function createMp3File(entries) {
+  for (const entry of entries) {
+    const { Text } = entry;
+    
+    const fileName = await generateTts(Text);
+
+    console.log(`Created ${fileName}`);
+  }
+}
+
+const entries = []; // An array to store CSV entries
+
+// Read the CSV file and populate the 'entries' array
+fs.createReadStream('index.csv')
+  .pipe(csv())
+  .on('data', (data) => {
+    entries.push(data);
+  })
+  .on('end', () => {
+    createMp3File(entries);
+    console.log('Running script');
+  });
