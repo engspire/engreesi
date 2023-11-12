@@ -3,7 +3,8 @@ const path = require("path");
 const OpenAI = require("openai");
 const filenamify = import("filenamify");
 
-const apiKey = 'OPENAI_API_KEY';
+// const apiKey = 'OPENAI_API_KEY';
+const apiKey = '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';
 
 /**
  * Creates an MP3 file using OpenAI Text-to-Speech (TTS) API.
@@ -12,12 +13,12 @@ const apiKey = 'OPENAI_API_KEY';
  * @param {string} voice - The voice model to be used ["alloy", "echo", "fable", "onyx", "nova", "shimmer"]. 🔗 https://platform.openai.com/docs/guides/text-to-speech/voice-options
  * @returns {Promise<string>} - A Promise that resolves to the generated MP3 file name.
  */
-async function createTtsMp3(text, voice) {
+async function createTtsMp3(text, voice, fileName) {
   // Initialize OpenAI instance with API key
   const openai = new OpenAI({ apiKey });
 
   // Generate a safe filename using the input text
-  const fileName = (await filenamify).default(text);
+  if (!fileName) fileName = (await filenamify).default(text);
 
   // Resolve the file path for the generated MP3
   const speechFile = path.resolve(`./${fileName}.mp3`);
@@ -41,3 +42,5 @@ async function createTtsMp3(text, voice) {
   // Return the generated MP3 file name
   return `${fileName}.mp3`;
 }
+
+module.exports = { createTtsMp3 }
