@@ -109,7 +109,7 @@ const config: DocsThemeConfig = {
   },
   head: () => {
     const { asPath, defaultLocale, locale } = useRouter();
-    const { frontMatter } = useConfig();
+    const { frontMatter, title } = useConfig();
     const url =
       'https://engreesi.engspire.lk' +
       (defaultLocale === locale ? asPath : `/${locale}${asPath}`);
@@ -117,7 +117,7 @@ const config: DocsThemeConfig = {
     return (
       <>
         <meta property="og:url" content={url} />
-        <meta property="og:title" content={frontMatter.title || 'Engreesi'} />
+        <meta property="og:title" content={frontMatter.title || title || 'Engreesi'} />
         <meta
           property="og:description"
           content={frontMatter.description || 'English Lessons from Engspire'}
