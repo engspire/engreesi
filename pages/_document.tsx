@@ -8,7 +8,7 @@ export default function Document() {
         <link rel="apple-touch-icon" href="/icon-512x512.png"></link>
         <meta name="theme-color" content="#171717" />
       </Head>
-      <body>
+      <body data-theme="light">
         <Main />
         <NextScript />
       </body>

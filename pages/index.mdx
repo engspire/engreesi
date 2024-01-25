@@ -4,6 +4,7 @@ description: "Let's make English learning more accessible to everyone in Sri Lan
 ---
 
 import Image from "next/image"
+import Link from "next/link"
 
 <div className="w-full flex justify-start p-4">
   <div>
@@ -22,11 +23,64 @@ import Image from "next/image"
 
 <p className="text-2xl mt-6 font-light">Let's make English learning more accessible to everyone in Sri Lanka. Our core mission is to provide free and easy access to quality English learning resources. We believe that education can transform lives, and we're here to empower you on your journey of language learning.</p>
 
-## Why English?
+## What do you want to study today?
 
-In today's interconnected world, English is more than just a language – it's a key that unlocks doors of opportunity. Whether you're aiming to excel in your studies, advance in your career, or simply communicate with people from different parts of the globe, English proficiency is your passport to success.
-
-With English as a bridge language, you can engage in international business, access a wealth of information on the internet, and connect with people from diverse backgrounds. Learning English expands your horizons and equips you with the tools to navigate a globalized society.
+<div class="mt-4 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 z-0">
+  <Link href="/grammar-lessons">
+    <div className="card z-0 min-h-[224px] shadow-xl bg-base-100 image-full hover:bg-slate-800">
+      <div className="card-body">
+        <h3 className="card-title">Grammar</h3>
+        <p>We have dozens of articles to improve your grammar knowledge.</p>
+      </div>
+      <figure className="opacity-50"><img src="/images/english-grammar.png" alt="English Grammar" /></figure>
+    </div>
+  </Link>
+  <Link href="/word-lists/irregular-verbs">
+    <div className="card z-0 min-h-[224px] shadow-xl bg-base-100 image-full hover:bg-slate-800">
+      <div className="card-body">
+        <h3 className="card-title">Irregular Verbs</h3>
+        <p>You just have to memorize these verbs because you can't add "-ed" to get V2 and V3 forms.</p>
+      </div>
+      <figure className="opacity-50"><img src="/images/studying-students.png" alt="Irregular Verbs" /></figure>
+    </div>
+  </Link>
+  <Link href="/word-lists/word-families">
+    <div className="card z-0 min-h-[224px] shadow-xl bg-base-100 image-full hover:bg-slate-800">
+      <div className="card-body">
+        <h3 className="card-title">Word Families</h3>
+        <p>You can boost your vocabulary by studying words that are related to one another.</p>
+      </div>
+      <figure className="opacity-50"><img src="/images/words.jpg" alt="Word Families" /></figure>
+    </div>
+  </Link>
+  <Link href="/essential-verbs">
+    <div className="card z-0 min-h-[224px] shadow-xl bg-base-100 image-full hover:bg-slate-800">
+      <div className="card-body">
+        <h3 className="card-title">Essential Verbs</h3>
+        <p>Verbs are the most important class of words to know when learning English.</p>
+      </div>
+      <figure className="opacity-50"><img src="/images/ladders.jpg" alt="Essential Verbs" /></figure>
+    </div>
+  </Link>
+  <Link href="/tongue-twisters">
+    <div className="card z-0 min-h-[224px] shadow-xl bg-base-100 image-full hover:bg-slate-800">
+      <div className="card-body">
+        <h3 className="card-title">Tongue Twisters</h3>
+        <p>"If practice makes perfect and perfect needs practice, I'm perfectly practised and practically perfect."</p>
+      </div>
+      <figure className="opacity-50"><img src="/images/mouths.jpg" alt="Tongue Twisters" /></figure>
+    </div>
+  </Link>
+  <div className="card z-0 min-h-[224px] bg-base-100">
+    <div className="card-body">
+      <h3 className="card-title">There's more...</h3>
+      <div class="flex flex-row gap-2">
+        <div className="inline md:hidden"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6"><path strokeLinecap="round" strokeLinejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5" /></svg></div> 
+        <p>See the menu for more lessons like useful expressions, conversations, etc.</p>
+      </div>
+    </div>
+  </div>
+</div>
 
 ## Our Vision
 
