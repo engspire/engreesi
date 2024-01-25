@@ -21,6 +21,10 @@ th:nth-child(2), td:nth-child(2) {
   font-weight: 600;
 }
 
+.word-families-table td {
+  font-weight: 400;
+}
+
 .phonetic-symbols-tables td {
   vertical-align: middle;
 }
