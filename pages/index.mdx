@@ -75,7 +75,30 @@ import Link from "next/link"
     <div className="card-body">
       <h3 className="text-4xl font-semibold">There's more...</h3>
       <div class="flex flex-row gap-2">
-        <div className="inline md:hidden"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6"><path strokeLinecap="round" strokeLinejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5" /></svg></div> 
+        <div className="inline md:hidden">
+              <button
+                onClick={() => {
+                  const hamburgerButton =
+                    document.getElementsByClassName("nextra-hamburger");
+                  hamburgerButton[0].click();
+                }}
+              >
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  fill="none"
+                  viewBox="0 0 24 24"
+                  strokeWidth={1.5}
+                  stroke="currentColor"
+                  className="w-6 h-6"
+                >
+                  <path
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5"
+                  />
+                </svg>
+              </button>
+            </div> 
         <p className="">See the menu for more lessons like useful expressions, conversations, etc.</p>
       </div>
     </div>
