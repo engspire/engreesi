@@ -122,7 +122,7 @@ const config: DocsThemeConfig = {
       </svg>
     ),
   },
-  docsRepositoryBase: "https://github.com/pivee/engreesi",
+  docsRepositoryBase: "https://github.com/engspire/engreesi",
   banner: {
     text: (
       <a href="https://engspire.lk" target="_blank">
@@ -164,7 +164,7 @@ const config: DocsThemeConfig = {
     const { asPath, defaultLocale, locale } = useRouter();
     const { frontMatter, title } = useConfig();
     const url =
-      "https://engreesi.engspire.lk" +
+      "https://engreesi.com" +
       (defaultLocale === locale ? asPath : `/${locale}${asPath}`);
 
     return (
