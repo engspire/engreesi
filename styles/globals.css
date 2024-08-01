@@ -2,6 +2,27 @@
 @tailwind components;
 @tailwind utilities;
 
+.btn {
+    text-transform: none;
+}
+
+.rdp {
+    --rdp-cell-size: 40px;
+    --rdp-accent-color: #0000ff;
+    --rdp-background-color: #e7edff;
+    /* Switch to dark colors for dark themes */
+    --rdp-accent-color-dark: #3003e1;
+    --rdp-background-color-dark: #180270;
+    /* Outline border for focused elements */
+    --rdp-outline: 2px solid var(--rdp-accent-color);
+    /* Outline border for focused and selected elements */
+    --rdp-outline-selected: 2px solid rgba(0, 0, 0, 0.75);
+}
+
+a, summary, button, input, [tabindex]:not([tabindex="-1"]) {
+  outline: none !important;
+}
+
 th {
   text-align: left;
   background-color: #171717;
@@ -14,11 +35,20 @@ td {
 
 td:nth-child(1) {
   font-weight: bold;
+  min-width: 160px;
 }
+/* 
+div.irregular-verbs  {
+  color:red;
+} */
 
 th:nth-child(2), td:nth-child(2) {
   min-width: 160px;
-  font-weight: 600;
+}
+
+div.irregular-verbs th:nth-child(1), div.irregular-verbs td:nth-child(1) {
+  min-width: 30px;
+  font-size: 80%;
 }
 
 .word-families-table td {
@@ -27,4 +57,38 @@ th:nth-child(2), td:nth-child(2) {
 
 .phonetic-symbols-tables td {
   vertical-align: middle;
+}
+
+pre {
+  overflow-x: scroll;
+}
+
+.line-through {
+  text-decoration-color: #394e6a;
+}
+
+.colorful {
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+    background-size: 400% 400%;
+    animation: gradient 60s ease infinite;
+    background-blend-mode: screen;
+}
+
+.backlit {
+  background: linear-gradient(-45deg, #f0f6ff, #f0f6ff, #d5f4ff);
+  background-size: 400% 400%;
+  animation: gradient 60s ease infinite;
+  background-blend-mode: screen;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
 }

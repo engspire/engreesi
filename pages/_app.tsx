@@ -4,9 +4,10 @@ import { Analytics } from '@vercel/analytics/react';
 import Footer from '@/components/Footer';
 
 export default function App({ Component, pageProps }: AppProps) {
-  return <>
-    <Component {...pageProps} />
-    <Footer />
-    <Analytics />
-  </>;
+  return (
+    <>
+      <Component {...pageProps} />
+      <Analytics />
+    </>
+  );
 }
