@@ -6,85 +6,24 @@ description: "Let's make English learning more accessible to everyone in Sri Lan
 import Image from "next/image"
 import Link from "next/link"
 
-<div className="w-full flex justify-start p-4">
-  <div>
-    <Image src="/images/reader.gif" width={320} height={320} />
-  </div>
+<div className="flex justify-start pt-2">
+  <Image src="/images/reader.gif" width={280} height={280} alt="Reading maketh a full man!" priority />
 </div>
 
-<div class="flex flex-row gap-8 align-middle">
-<div className="flex place-items-center">
-<h1 className="text-3xl md:text-4xl lg:text-5xl"><span className="font-bold">Engreesi</span> <span className="font-light">Web App</span></h1>
-</div>
-<div className="flex place-items-center">
-<img src="/engreesi-logo.png" style={{ height:128, width: 128 }} className="hidden lg:inline-block mask mask-squircle" />
-</div>
-</div>
+<h1 className="text-4xl"><span className="font-semibold">Engreesi</span> <span className="font-light">Web App</span></h1>
 
-<p className="text-2xl mt-6 font-light">Let's make English learning more accessible to everyone in Sri Lanka. Our core mission is to provide free and easy access to quality English learning resources. We believe that education can transform lives, and we're here to empower you on your journey of language learning.</p>
+<p className="text-xl mt-6 font-light">This is an open space for everyone, especially Sri Lankans, who want to learn English. We believe that access to knowledge should never be put behind a pay-wall. Therefore, all the articles within this space are free for everyone to use for their learning.</p>
 
-## What do you want to study today?
+#### What do you want to study today?
 
-<div class="mt-4 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 z-0">
-  <Link href="/grammar-lessons">
-    <div className="card z-0 min-h-[224px] shadow-xl bg-base-100 image-full hover:bg-slate-800">
-      <div className="card-body">
-        <h3 className="text-4xl font-semibold">Grammar</h3>
-        <p className="text-2xl md:text-base">We have dozens of articles you can read to improve your grammar knowledge.</p>
-      </div>
-      <figure className="opacity-50"><img src="/images/english-grammar.png" alt="English Grammar" /></figure>
-    </div>
-  </Link>
-  <Link href="/word-lists/irregular-verbs">
-    <div className="card z-0 min-h-[224px] shadow-xl bg-base-100 image-full hover:bg-slate-800">
-      <div className="card-body">
-        <h3 className="text-4xl font-semibold">Irregular Verbs</h3>
-        <p className="text-2xl md:text-base">You have to memorize these verbs just because you can't add "-ed" to get V2 and V3 forms.</p>
-      </div>
-      <figure className="opacity-50"><img src="/images/studying-students.png" alt="Irregular Verbs" /></figure>
-    </div>
-  </Link>
-  <Link href="/word-lists/word-families">
-    <div className="card z-0 min-h-[224px] shadow-xl bg-base-100 image-full hover:bg-slate-800">
-      <div className="card-body">
-        <h3 className="text-4xl font-semibold">Word Families</h3>
-        <p className="text-2xl md:text-base">You can boost your vocabulary by studying words that are related to one another.</p>
-      </div>
-      <figure className="opacity-50"><img src="/images/words.jpg" alt="Word Families" /></figure>
-    </div>
-  </Link>
-  <Link href="/essential-verbs">
-    <div className="card z-0 min-h-[224px] shadow-xl bg-base-100 image-full hover:bg-slate-800">
-      <div className="card-body">
-        <h3 className="text-4xl font-semibold">Essential Verbs</h3>
-        <p className="text-2xl md:text-base">Verbs are the most important class of words to know when learning English.</p>
-      </div>
-      <figure className="opacity-50"><img src="/images/ladders.jpg" alt="Essential Verbs" /></figure>
-    </div>
-  </Link>
-  <Link href="/tongue-twisters">
-    <div className="card z-0 min-h-[224px] shadow-xl bg-base-100 image-full hover:bg-slate-800">
-      <div className="card-body">
-        <h3 className="text-4xl font-semibold">Tongue Twisters</h3>
-        <p className="text-2xl md:text-base">"If practice makes perfect and perfect needs practice, I'm perfectly practised and practically perfect."</p>
-      </div>
-      <figure className="opacity-50"><img src="/images/mouths.jpg" alt="Tongue Twisters" /></figure>
-    </div>
-  </Link>
-  <div className="card z-0 min-h-[224px]">
-    <div className="card-body">
-      <h3 className="text-4xl font-semibold">There's more...</h3>
-      <div class="flex flex-row gap-2">
-        <div className="inline md:hidden"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6"><path strokeLinecap="round" strokeLinejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5" /></svg></div> 
-        <p className="">See the menu for more lessons like useful expressions, conversations, etc.</p>
-      </div>
-    </div>
-  </div>
-</div>
+import LessonsHomeMenu from "../features/lessons-home-menu/LessonsHomeMenu"
+
+<LessonsHomeMenu />
 
 ## Our Vision
 
-At Engspire, we envision a world where education knows no boundaries. We believe that everyone, regardless of their background, should have equal access to learning resources. Our curated collection of free English lessons reflects this commitment to equality and empowerment.
+At Engspire, we envision a world where education knows no boundaries. We believe that everyone, regardless of their background, should have equal access to learning resources.
+
 
 ## Our Community
 
